@@ -1,4 +1,4 @@
-# 欢迎使用ss panel v3 mod 再次修改版
+# 欢迎使用 SS Panel V3 MOD 再次修改版
 
 
 **ss-panel-v3-mod**是一款专为shadowsocks设计的web前端面板，再次感谢ss-panel-v3-mod 的制作者，修改后的功能简介：
